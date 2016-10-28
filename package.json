@@ -1,0 +1,38 @@
+{
+  "name": "ng2-autocomplete-component",
+  "version": "0.0.5",
+  "description": "An angular 2 library that provides autocomplete UI element functionality",
+  "main": "ng2-autocomplete.js",
+  "scripts": {
+    "watch": "tsc -p src -w",
+    "build": "tsc -p src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tWinE-xx/ng2-autocomplete.git"
+  },
+  "keywords": [
+    "Angular",
+    "2",
+    "autocomplete",
+    "component",
+    "UI"
+  ],
+  "author": "Yuval Birenboum <bir.yuval@gmail.com> (https://il.linkedin.com/in/yuval-birenboum-b3565b12)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tWinE-xx/ng2-autocomplete/issues"
+  },
+  "homepage": "https://github.com/tWinE-xx/ng2-autocomplete#readme",
+  "dependencies": {
+    "@angular/common": "^2.1.1",
+    "@angular/compiler": "^2.1.1",
+    "@angular/core": "^2.1.1",
+    "@angular/forms": "^2.1.1",
+    "@angular/http": "^2.1.1",
+    "rxjs": "^5.0.0-rc.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.6"
+  }
+}
